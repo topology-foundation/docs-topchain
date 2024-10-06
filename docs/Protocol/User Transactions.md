@@ -1,0 +1,1 @@
+How-to guide for users to create, update, cancel deals.
