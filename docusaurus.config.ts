@@ -3,15 +3,15 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-	title: 'Topchain - Documentation',
+	title: 'Chain Docs',
 	tagline: 'Building distributed real-time applications',
 	favicon: 'img/favicon.ico',
 
-	url: 'https://docs-topchain.topolog.pgg',
+	url: 'https://docs-topchain.topology.gg',
 	baseUrl: '/',
 
 	organizationName: 'topology-foundation',
-	projectName: 'docs-topchain',
+	projectName: 'docs-chain',
 
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
@@ -44,7 +44,7 @@ const config: Config = {
 	themeConfig: {
 		image: 'https://avatars.githubusercontent.com/u/157637200',
 		navbar: {
-			title: 'Topology',
+			title: 'Chain',
 			logo: {
 				alt: 'topology_logo',
 				src: 'https://avatars.githubusercontent.com/u/157637200',
@@ -72,21 +72,13 @@ const config: Config = {
 					title: 'Documentation',
 					items: [
 						{
-							label: 'Get Started',
+							label: 'Quick Start',
 							href: 'https://docs.topology.gg/get-started',
 						},
 						{
-							label: 'Technical Overview',
+							label: 'Basics',
 							href: 'https://docs.topology.gg/technical-overview',
 						},
-						{
-							label: 'Tutorials',
-							href: 'https://docs.topology.gg/tutorials',
-						},
-						{
-							label: 'Topchain',
-							href: 'https://docs.topology.gg',
-						}
 					],
 				},
 				{
