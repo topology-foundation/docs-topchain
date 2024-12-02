@@ -16,6 +16,7 @@ title: ""
 
 TODO:
 - a 2-sentence tldr for Chain
+- redirect the reader to Quick Start and Basics depending on their need
 
 ## Repositories
 
